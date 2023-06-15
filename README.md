@@ -1,4 +1,5 @@
 A very funny scene of random objects put together (using Three.js and WebGL).
+![scene](./images/scene.png)
 
 How you can play around with it:
 - install `live-server` https://www.npmjs.com/package/live-server
